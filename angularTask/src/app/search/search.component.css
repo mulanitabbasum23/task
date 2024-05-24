@@ -1,0 +1,30 @@
+.background {
+    background-image: url('../../assets/images/backgroundImage.jpg'); 
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.result-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+
+  .result-item {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .result-item img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  
+  .result-item h3 {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  
